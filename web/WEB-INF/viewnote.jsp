@@ -1,17 +1,15 @@
-<%-- 
-    Document   : viewnote
-    Created on : Jun 8, 2021, 11:37:53 AM
-    Author     : 854950
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Simple Note Keeper</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Simple Note Keeper</h1>
+        <h2>View Note</h2>
+        <p>Title:</p>
+        <p>Contents:</p>
+        <a href="note">Edit</a>
     </body>
 </html>
