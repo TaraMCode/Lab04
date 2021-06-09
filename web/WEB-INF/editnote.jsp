@@ -7,5 +7,7 @@
     </head>
     <body>
         <h1>Simple Note Keeper</h1>
+        <h2>Edit Note</h2>
+        
     </body>
 </html>

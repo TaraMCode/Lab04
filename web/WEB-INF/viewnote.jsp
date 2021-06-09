@@ -1,4 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
     <head>
@@ -10,6 +11,6 @@
         <h2>View Note</h2>
         <p>Title:</p>
         <p>Contents:</p>
-        <a href="note">Edit</a>
+        <a href="note?edit">Edit</a>
     </body>
 </html>
